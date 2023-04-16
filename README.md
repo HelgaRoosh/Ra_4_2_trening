@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/dmlb90426j4n0cd4?svg=true)](https://ci.appveyor.com/project/HelgaRoosh/ra-4-2-trening)
 
+https://helgaroosh.github.io/Ra_4_2_trening/
+
 Учёт тренировок
 ===
 
